@@ -3,6 +3,10 @@
 <h3 align="center">Informatics Student • Learner • Problem Solver</h3>
 
 ---
+<p align="center">
+  <img width="250" alt="WhatsApp Image 2026-06-18 at 18 43 35" src="https://github.com/user-attachments/assets/6c8b1b80-16ab-4f96-ac3e-b5b0012acf85" />
+</p>
+
 
 ## 🚀 About Me
 Saya seorang Mahasiswa Informatika di Universitas Teknologi Digital Indonesia (UTDI) sekaligus pengembang perangkat lunak yang antusias. Saya memiliki *passion* dalam membangun aplikasi web yang intuitif dan *user-friendly*. Saya sangat menikmati eksplorasi teknologi *frontend* maupun *backend*, serta selalu terbuka untuk mempelajari *tools* dan *framework* baru. 
